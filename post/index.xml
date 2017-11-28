@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on George Busby</title>
+    <link>https://georgebusby.github.io/post/</link>
+    <description>Recent content in Posts on George Busby</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017 George Busby</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meditation on a Caltrain</title>
+      <link>https://georgebusby.github.io/post/meditation/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://georgebusby.github.io/post/meditation/</guid>
+      <description>&lt;p&gt;Link to &lt;a href=&#34;http://blogs.nature.com/naturejobs/2017/05/17/meditation-on-a-caltrain-understanding-where-to-travel-to-next/&#34; target=&#34;_blank&#34;&gt;Naturejobs&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

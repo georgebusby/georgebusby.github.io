@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on George Busby</title>
+    <link>https://georgebusby.github.io/project/</link>
+    <description>Recent content in Projects on George Busby</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017 George Busby</copyright>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cards against malaria</title>
+      <link>https://georgebusby.github.io/project/cards/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgebusby.github.io/project/cards/</guid>
+      <description>&lt;p&gt;I helped to develop a card game on the genetics of malaria susceptibility with &lt;a href=&#34;http://www.jakobrossner.com/&#34; target=&#34;_blank&#34;&gt;Jakob Rossner&lt;/a&gt; in the Nuffield Department of Medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comics</title>
+      <link>https://georgebusby.github.io/project/phoenix/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgebusby.github.io/project/phoenix/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re collaborating with the amazing Phoenix to make some comics about DNA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our genomic future</title>
+      <link>https://georgebusby.github.io/project/theatre/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgebusby.github.io/project/theatre/</guid>
+      <description>&lt;p&gt;We are writing a play about the use of big data and genomics in the future of healthcare and medicine. Stay tuned for updates!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
