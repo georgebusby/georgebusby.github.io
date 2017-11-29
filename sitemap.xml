@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://georgebusby.github.io/post/writing/</loc>
+      <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://georgebusby.github.io/project/cards/</loc>
       <lastmod>2017-11-28T00:00:00+00:00</lastmod>
     </url>
@@ -34,15 +43,6 @@
     
       <loc>https://georgebusby.github.io/publication/busby_inferring_2017/</loc>
       <lastmod>2017-10-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://georgebusby.github.io/post/writing/</loc>
-      <lastmod>2017-05-17T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -286,6 +286,16 @@
     
     <url>
     
+      <loc>https://georgebusby.github.io/tags/ancestry/</loc>
+      <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://georgebusby.github.io/tags/big-data/</loc>
       <lastmod>2017-11-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -306,7 +316,7 @@
     <url>
     
       <loc>https://georgebusby.github.io/tags/genetics/</loc>
-      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+      <lastmod>2017-11-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -317,6 +327,16 @@
     
       <loc>https://georgebusby.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://georgebusby.github.io/tags/infecious-disease/</loc>
+      <lastmod>2017-11-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
