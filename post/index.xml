@@ -162,14 +162,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>https://georgebusby.github.io/post/temp/</link>
-      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://georgebusby.github.io/post/temp/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
