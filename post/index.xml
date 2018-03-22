@@ -44,14 +44,26 @@
 &lt;h2 id=&#34;the-conversation&#34;&gt;&lt;strong&gt;The Conversation&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;div class=&#34;col-sm-12&#34;&gt;
-    &lt;p&gt;I&#39;ve had over 165,000 reads of my articles on the Conversation putting me in the top 25 out of over 450 Oxford Uni authors &lt;/p&gt;
+    &lt;p&gt;I&#39;ve had over 220,000 reads of my articles on the Conversation putting me in the top 20 out of over 450 Oxford Uni authors &lt;/p&gt;
+    &lt;div class=&#34;featurette-icon&#34;&gt;
+     &lt;a href=&#34;https://theconversation.com/five-surprising-things-dna-has-revealed-about-our-ancestors-91934&#34;&gt;&lt;i class=&#34;fa fa-files-o&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+    &lt;strong&gt;Five surprising things DNA has revealed about our ancestors&lt;/strong&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;featurette-icon&#34;&gt;
+    &lt;i class=&#34;fa fa-calendar&#34;&gt;&lt;/i&gt; February 2018&lt;/div&gt;
 
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;col-sm-12&#34;&gt;
+        &lt;div class=&#34;featurette-icon&#34;&gt;
     &lt;div class=&#34;featurette-icon&#34;&gt;
      &lt;a href=&#34;    https://theconversation.com/can-we-ever-find-jesuss-dna-i-met-the-scientists-who-are-trying-to-find-out-72296&#34;&gt;&lt;i class=&#34;fa fa-files-o&#34;&gt;&lt;/i&gt;&lt;/a&gt;
     &lt;strong&gt;Can we ever find Jesus’s DNA? I met the scientists who are trying to find out&lt;/strong&gt;
     &lt;/div&gt;
-    &lt;div class=&#34;featurette-icon&#34;&gt;&lt;i class=&#34;fa fa-calendar&#34;&gt;&lt;/i&gt; April 2017&lt;/div&gt;
+    &lt;div class=&#34;featurette-icon&#34;&gt;
+    &lt;i class=&#34;fa fa-calendar&#34;&gt;&lt;/i&gt; April 2017  &lt;/div&gt;
 &lt;/div&gt;
+
 &lt;div class=&#34;col-sm-12&#34;&gt;
     &lt;div class=&#34;featurette-icon&#34;&gt;
      &lt;a href=&#34;https://theconversation.com/genetic-studies-reveal-diversity-of-early-human-populations-and-pin-down-when-we-left-africa-65745&#34;&gt;&lt;i class=&#34;fa fa-files-o&#34;&gt;&lt;/i&gt;&lt;/a&gt;
@@ -59,6 +71,7 @@
     &lt;/div&gt;
     &lt;div class=&#34;featurette-icon&#34;&gt;&lt;i class=&#34;fa fa-calendar&#34;&gt;&lt;/i&gt; Sept 2016&lt;/div&gt;
 &lt;/div&gt;
+
 &lt;div class=&#34;col-sm-12&#34;&gt;
     &lt;div class=&#34;featurette-icon&#34;&gt;
      &lt;a href=&#34;https://theconversation.com/heres-how-genetics-helped-crack-the-history-of-human-migration-52918&#34;&gt;&lt;i class=&#34;fa fa-files-o&#34;&gt;&lt;/i&gt;&lt;/a&gt;
