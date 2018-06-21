@@ -58,6 +58,12 @@
   &lt;iframe src=&#34;//player.vimeo.com/video/273486720&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/273486720&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
 &lt;p&gt;Here&amp;rsquo;s some press about the show:&lt;/p&gt;
 
 &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34; itemscope itemtype=&#34;http://schema.org/CreativeWork&#34;&gt;
